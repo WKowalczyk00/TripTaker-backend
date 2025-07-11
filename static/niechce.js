@@ -1,0 +1,1 @@
+//to jest coś czego ma nie być na gałęzi main
